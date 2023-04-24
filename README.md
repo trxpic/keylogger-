@@ -1,2 +1,3 @@
-# keylogger-
-lol imagine being cringe and using this
+
+lol imagine being cringe and using this (education purposes only :)
+
